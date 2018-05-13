@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="theme_names">
+        <item name="light">Light</item>
+        <item name="dark">Dark</item>
+        <item name="midnight">Midnight</item>
+        <item name="sample">Crazy Sample</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item name="light">light</item>
+        <item name="dark">dark</item>
+        <item name="midnight">midnight</item>
+        <item name="sample">sample</item>
+    </string-array>
+
+    <string-array name="sort_names">
+        <item name="alpha">Alphabetical</item>
+        <item name="editDate">Last Modified</item>
+        <item name="createdDate">Date Created</item>
+    </string-array>
+    <string-array name="sort_values">
+        <item name="alpha">alpha</item>
+        <item name="editDate">editDate</item>
+        <item name="createdDate">createdDate</item>
+    </string-array>
+
+    <string-array name="lang_names">
+        <item name="local">Phone\'s Default Language</item>
+        <item name="en">English</item>
+        <item name="fr">Français</item>
+        <item name="fi">Suomea</item>
+        <item name="fa">فارسی</item>
+    </string-array>
+    <string-array name="lang_values">
+        <item name="local">local</item>
+        <item name="en">en</item>
+        <item name="fr">fr</item>
+        <item name="fi">fi</item>
+        <item name="fa">fa</item>
+    </string-array>
+
+</resources>

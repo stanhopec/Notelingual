@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NoteLingual</string>
+    <string name="menuPrefsTitle">User Preferences</string>
+    <string name="menuDeleteTitle">Delete Note</string>
+
+    <!-- Hints ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Hints -->
+    <string name="enterNoteTitleHint">Enter note title&#8230;</string>
+    <string name="enterNoteTextHint">Enter note text&#8230;</string>
+
+    <!-- Buttons and Misc ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Buttons and Misc -->
+    <string name="imageLanguageIcon">Currently selected language</string>
+
+    <!-- User Messages ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ User Messages -->
+    <string name="userSuccessCreated">Note successfully created</string>
+    <string name="userSuccessSaved">Note saved</string>
+
+    <!-- Preferences ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Preferences -->
+    <!-- Language -->
+    <string name="prefsLangKey" translatable="false">lang</string>
+    <string name="prefsLangTitle">Language</string>
+    <string name="prefsLangSummary">Select the app language</string>
+    <string name="prefsLangDefaultValue" translatable="false">local</string>
+
+    <!-- Theme -->
+    <string name="prefsThemeKey" translatable="false">theme</string>
+    <string name="prefsThemeTitle">Theme</string>
+    <string name="prefsThemeSummary">Select the colour theme of the app</string>
+    <string name="prefsThemeDefaultValue" translatable="false">light</string>
+
+    <!-- Sort -->
+    <string name="prefsSortKey" translatable="false">sort</string>
+    <string name="prefsSortTitle">Sort By</string>
+    <string name="prefsSortSummary">Sort list of notes</string>
+    <string name="prefsSortDefaultValue" translatable="false">alpha</string>
+
+    <!-- Sort Order -->
+    <string name="prefsOrderKey" translatable="false">order</string>
+</resources>

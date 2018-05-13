@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ca.nait.cstanhope2.notelingual.NoteViewActivity">
+
+    <EditText
+        android:id="@+id/editTextNoteName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="20sp"
+
+        android:inputType="textCapWords|textAutoCorrect"
+        android:hint="@string/enterNoteTitleHint"
+
+        android:background="@android:color/transparent"
+        android:layout_margin="10dp"
+        />
+
+    <EditText
+        android:id="@+id/editTextNoteBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
+        android:hint="@string/enterNoteTextHint"
+
+        android:background="@android:color/transparent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,72 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="LightTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/lightPrimary</item>
+        <item name="colorPrimaryDark">@color/lightPrimaryDark</item>
+        <item name="colorAccent">@color/lightAccent</item>
+        <item name="android:textColor">@color/lightTextColor</item>
+        <item name="android:textColorPrimary">@color/lightTextColor</item>
+        <item name="android:textColorSecondary">@color/lightTextColorSecondary</item>
+        <item name="android:textColorHint">@color/lightTextHint</item>
+        <item name="android:textColorHighlight">@color/lightTextHighlight</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/darkPrimary</item>
+        <item name="colorPrimaryDark">@color/darkPrimaryDark</item>
+        <item name="colorAccent">@color/darkAccent</item>
+        <item name="android:textColor">@color/darkTextColor</item>
+        <item name="android:textColorPrimary">@color/darkTextColor</item>
+        <item name="android:textColorSecondary">@color/darkTextColorSecondary</item>
+        <item name="android:textColorHint">@color/darkTextHint</item>
+        <item name="android:textColorHighlight">@color/darkTextHighlight</item>
+    </style>
+
+    <style name="MidnightTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/midnightPrimary</item>
+        <item name="colorPrimaryDark">@color/midnightPrimaryDark</item>
+        <item name="colorAccent">@color/midnightAccent</item>
+        <item name="android:textColor">@color/midnightTextColor</item>
+        <item name="android:textColorPrimary">@color/midnightTextColor</item>
+        <item name="android:textColorSecondary">@color/midnightTextColorSecondary</item>
+        <item name="android:textColorHint">@color/midnightTextHint</item>
+        <item name="android:textColorHighlight">@color/midnightTextHighlight</item>
+        <item name="android:windowBackground">@color/midnightWindowBackground</item>
+    </style>
+
+    <style name="SampleTheme">
+        <!-- Big bar on top with app title -->
+        <item name="colorPrimary">#ff00d9</item>
+
+        <!-- Status bar(where you see time and notification icons) -->
+        <item name="colorPrimaryDark">#24fff8</item>
+
+        <!-- selected radio button colours, the colour of your cursor as you write, the underline of edittext -->
+        <item name="colorAccent">#a83fff</item>
+
+        <!-- The colour of regular text in a textview -->
+        <item name="android:textColor">#0015ff</item>
+
+        <!-- When you long press and select text -->
+        <item name="android:textColorHighlight">#f7ff00</item>
+
+        <!-- Hint colour (in an edittext, when it says "enter here...") -->
+        <item name="android:textColorHint">#ff8c00</item>
+
+        <!-- The colour of text in edittexts -->
+        <item name="android:textColorPrimary">#ff0000</item>
+
+        <!-- In the user prefs screen, the description of the user options -->
+        <item name="android:textColorSecondary">#59ff00</item>
+
+        <!-- The window background. For some reason, this needs to be a color file and can't be hardcoded -->
+        <item name="android:windowBackground">@color/sampleWindowBackground</item>
+    </style>
+
+</resources>

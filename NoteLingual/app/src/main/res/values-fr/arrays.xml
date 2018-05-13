@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_names">
+        <item name="light">Lèger</item>
+        <item name="dark">Foncé</item>
+        <item name="midnight">Minuit</item>
+        <item name="sample">Tème fou</item>
+    </string-array>
+
+    <string-array name="sort_names">
+        <item name="alpha">Alphabétique</item>
+        <item name="editDate">Dernière modifié</item>
+        <item name="createdDate">Date créé</item>
+    </string-array>
+
+    <string-array name="lang_names">
+        <item name="local">La langue du téléphone</item>
+        <item name="en">English</item>
+        <item name="fr">Français</item>
+        <item name="fi">Suomea</item>
+        <item name="fa">فارسی</item>
+    </string-array>
+
+</resources>

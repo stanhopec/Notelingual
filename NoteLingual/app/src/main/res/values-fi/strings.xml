@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteLingual suomeksi</string>
+    <string name="enterNoteTextHint">Anna muisti teksti&#8230;</string>
+    <string name="enterNoteTitleHint">Anna muisti otsikko&#8230;</string>
+    <string name="menuPrefsTitle">Asetukset</string>
+    <string name="prefsSortSummary">Järjestä muistit</string>
+    <string name="prefsSortTitle">Järjestä</string>
+    <string name="prefsThemeSummary">Valitse sovelluksen väriteema</string>
+    <string name="prefsThemeTitle">Teema</string>
+    <string name="userSuccessCreated">Muisti luonut</string>
+    <string name="userSuccessSaved">Muisti säästänyt</string>
+    <string name="prefsLangSummary">Valitse sovelluksen kieli</string>
+    <string name="prefsLangTitle">Kieli</string>
+    <string name="imageLanguageIcon">Valittu kieli</string>
+    <string name="menuDeleteTitle">Poista muisti</string>
+</resources>

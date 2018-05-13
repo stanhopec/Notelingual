@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_names">
+        <item name="light">سبک</item>
+        <item name="dark">تاریکی</item>
+        <item name="midnight">نیمه شب</item>
+        <item name="sample">نمونه دیوانه</item>
+    </string-array>
+
+    <string-array name="sort_names">
+        <item name="alpha">حروف الفبا</item>
+        <item name="editDate">ویرایش تاریخ</item>
+        <item name="createdDate">تاریخ ایجاد</item>
+    </string-array>
+
+    <string-array name="lang_names">
+        <item name="local">زبان تلفن</item>
+        <item name="en">English</item>
+        <item name="fr">Français</item>
+        <item name="fi">Suomea</item>
+        <item name="fa">فارسی</item>
+    </string-array>
+</resources>

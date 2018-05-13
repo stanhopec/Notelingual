@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="theme_names">
+        <item name="light">Vaalea</item>
+        <item name="dark">Tumma</item>
+        <item name="midnight">Keskiyön aurinko</item>
+        <item name="sample">Hullu näyte</item>
+    </string-array>
+
+    <string-array name="sort_names">
+        <item name="alpha">Aakkosellinen</item>
+        <item name="editDate">Viimeksi muokattu</item>
+        <item name="createdDate">Päivä luotu</item>
+    </string-array>
+
+    <string-array name="lang_names">
+        <item name="local">Puhelimen oletuskieli</item>
+        <item name="en">English</item>
+        <item name="fr">Français</item>
+        <item name="fi">Suomea</item>
+        <item name="fa">فارسی</item>
+    </string-array>
+
+</resources>

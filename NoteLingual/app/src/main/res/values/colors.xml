@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Colours ~~~~~~~~~~~~~~~~~~~~~~~~~~~ Default Colours -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Light Colours ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Light Colours -->
+    <color name="lightPrimary">#c3b6cc</color>
+    <color name="lightPrimaryDark">#a4a4a4</color>
+    <color name="lightAccent">#a96bff</color>
+    <color name="lightTextColor">#000000</color>
+    <color name="lightTextColorSecondary">#464646</color>
+    <color name="lightTextHint">#464646</color>
+    <color name="lightTextHighlight">#00b2ff</color>
+
+    <!-- Dark Colours ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Dark Colours -->
+    <color name="darkPrimary">#484848</color>
+    <color name="darkPrimaryDark">#1e1e1e</color>
+    <color name="darkAccent">#8356c2</color>
+    <color name="darkTextColor">#ffffff</color>
+    <color name="darkTextColorSecondary">#c1c1c1</color>
+    <color name="darkTextHint">#c1c1c1</color>
+    <color name="darkTextHighlight">#6b469f</color>
+
+    <!-- Midnight Colours ~~~~~~~~~~~~~~~~~~~~~~~~~ Midnight Colours -->
+    <color name="midnightPrimary">#202020</color>
+    <color name="midnightPrimaryDark">#000000</color>
+    <color name="midnightAccent">#a1262a</color>
+    <color name="midnightTextColor">#cacaca</color>
+    <color name="midnightTextColorSecondary">#8f8f8f</color>
+    <color name="midnightTextHint">#8f8f8f</color>
+    <color name="midnightTextHighlight">#b4484c</color>
+    <color name="midnightWindowBackground">#381b1b</color>
+
+    <!-- Sample Colour (the one that can't be hardcoded) ~~~~~~~~~~ -->
+    <color name="sampleWindowBackground">#007e43</color>
+</resources>

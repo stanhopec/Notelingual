@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="@string/prefsLangKey"
+        android:title="@string/prefsLangTitle"
+        android:summary="@string/prefsLangSummary"
+        android:defaultValue="@string/prefsLangDefaultValue"
+        android:entries="@array/lang_names"
+        android:entryValues="@array/lang_values"
+        />
+
+    <ListPreference
+        android:key="@string/prefsThemeKey"
+        android:title="@string/prefsThemeTitle"
+        android:summary="@string/prefsThemeSummary"
+        android:defaultValue="@string/prefsThemeDefaultValue"
+        android:entries="@array/theme_names"
+        android:entryValues="@array/theme_values"
+        />
+
+    <ListPreference
+        android:key="@string/prefsSortKey"
+        android:title="@string/prefsSortTitle"
+        android:summary="@string/prefsSortSummary"
+        android:defaultValue="@string/prefsSortDefaultValue"
+        android:entries="@array/sort_names"
+        android:entryValues="@array/sort_values"
+        />
+
+</PreferenceScreen>

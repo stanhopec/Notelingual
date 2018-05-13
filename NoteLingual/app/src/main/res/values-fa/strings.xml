@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">یادداشت فارسی</string>
+    <string name="enterNoteTextHint">متن یادداشت را وارد کنید</string>
+    <string name="enterNoteTitleHint">عنوان یادداشت را وارد کنید</string>
+    <string name="menuPrefsTitle">اولویت ها</string>
+    <string name="prefsSortSummary">فهرست یادداشت ها را مرتب کنید</string>
+    <string name="prefsSortTitle">"مرتب سازی "</string>
+    <string name="prefsThemeSummary">تم رنگ برنامه را انتخاب کنید</string>
+    <string name="prefsThemeTitle">موضوع</string>
+    <string name="userSuccessCreated">توجه داشته باشید ایجاد شده است</string>
+    <string name="userSuccessSaved">یادداشت ذخیره شد</string>
+    <string name="prefsLangSummary">زبان برنامه را انتخاب کنید</string>
+    <string name="prefsLangTitle">زبان</string>
+    <string name="imageLanguageIcon">زبان انتخاب شده در حال حاضر</string>
+    <string name="menuDeleteTitle">حذف یادداشت</string>
+</resources>

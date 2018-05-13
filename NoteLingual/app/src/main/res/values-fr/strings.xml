@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteLingual En Français</string>
+    <string name="menuPrefsTitle">Vos paramètres</string>
+    <string name="enterNoteTitleHint">Le titre de la note&#8230;</string>
+    <string name="enterNoteTextHint">Le texte de la note&#8230;</string>
+    <string name="userSuccessCreated">Note créée</string>
+    <string name="userSuccessSaved">Note sauvegardée</string>
+    <string name="prefsThemeTitle">Thème</string>
+    <string name="prefsThemeSummary">Sélectionnez les couleurs de l\'application</string>
+    <string name="prefsSortTitle">Trier Par</string>
+    <string name="prefsSortSummary">Trier la liste des notes</string>
+    <string name="prefsLangTitle">Langue</string>
+    <string name="prefsLangSummary">Sélectionnez la langue de l\'application</string>
+    <string name="imageLanguageIcon">Langue choisi</string>
+    <string name="menuDeleteTitle">Supprimer la note</string>
+</resources>
